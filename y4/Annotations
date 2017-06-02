@@ -1,0 +1,18 @@
+Annotations
+
+Header
+____________________________________
+
+We cant't modify the html structure.
+The header width is 1024px;
+All header class will have a parent class .header
+Logo dimension are 123 x 50 use any logo
+
+Footer
+____________________________________
+
+Change the html src for social network images and set the proper size.
+Use any sprite image for country flags
+The subitems length could be variable, do not create styles that won't work with variables subitems
+
+
